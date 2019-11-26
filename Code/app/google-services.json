@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577081589447",
+    "firebase_url": "https://calculator-c4bbe.firebaseio.com",
+    "project_id": "calculator-c4bbe",
+    "storage_bucket": "calculator-c4bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577081589447:android:ec6d36720b3e4ab0abc8e2",
+        "android_client_info": {
+          "package_name": "com.example.homeinc.caloriecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577081589447-jfcfqh2sqrtg83gagkge92dp88c5f738.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeinc.caloriecalculator",
+            "certificate_hash": "a2f2b591c5715d4debcf310a41513366dfbcb9e1"
+          }
+        },
+        {
+          "client_id": "577081589447-o304f9nrp546jrjte18m89p0sjd4nrnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAGB4sZtlWYEkJyhUbQ3iQI2yGjf068Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577081589447-o304f9nrp546jrjte18m89p0sjd4nrnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
