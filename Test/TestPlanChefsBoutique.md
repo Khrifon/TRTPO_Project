@@ -44,8 +44,7 @@
 # 4 Риски  
 
 К рискам можно отнести:  
-* ошибка работы с базой данных;  
-* при запуске приложения в среде версии меньше указанной в [требованиях](https://github.com/anyatsal/ChefsBoutique/blob/master/Documents/Requirements/Requirements%20Document.md#restrictions) приложение может работать некорректно.
+* Прерывание работы приложения при входящем звонке;
 
 <a name="features"/>  
 
